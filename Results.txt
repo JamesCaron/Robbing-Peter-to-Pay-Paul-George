@@ -1,0 +1,16 @@
+	(1)
+VARIABLES	ln_salary_adj
+	
+six_perc_inc	-0.202***
+	[0.0218]
+top_player	1.901***
+	[0.0604]
+top_player_int	0.0344
+	[0.0860]
+Constant	14.58***
+	[0.0155]
+	
+Observations	12,929
+R-squared	0.139
+Standard errors in brackets	
+*** p<0.01, ** p<0.05, * p<0.1	
